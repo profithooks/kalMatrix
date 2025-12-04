@@ -1,4 +1,5 @@
-KalMatrix Delivery Radar – Backend Architecture (v40, P0 moat)
+KalMatrix Delivery Radar – Backend Architecture (v41, P0 moat)
+Checking Git Conn
 
 This document describes the current backend architecture for the KalMatrix Delivery Radar backend, with the new P0 moat logic wired in.
 
