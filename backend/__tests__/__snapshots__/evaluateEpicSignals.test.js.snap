@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`evaluateEpicSignals produces a result for an epic with no issues (edge case) 1`] = `
+{
+  "forecastWindow": "2-6_weeks",
+  "probability": 85,
+  "reasons": [
+    "Epic has no linked stories.",
+    "Epic has no clear owner assigned.",
+    "No weekly check-in has been submitted for this epic in 2 weeks.",
+  ],
+  "riskLevel": "off_track",
+  "signals": {
+    "completionRatio": 0,
+    "daysSinceMovement": null,
+    "daysToTarget": 7.5,
+    "doneStories": 0,
+    "inProgressStories": 0,
+    "totalStories": 0,
+  },
+}
+`;
+
+exports[`evaluateEpicSignals produces a structured result for a healthy epic 1`] = `
+{
+  "forecastWindow": "2-6_weeks",
+  "probability": 60,
+  "reasons": [
+    "Epic has no clear owner assigned.",
+  ],
+  "riskLevel": "at_risk",
+  "signals": {
+    "completionRatio": 0.3333333333333333,
+    "daysSinceMovement": null,
+    "daysToTarget": 7.5,
+    "doneIssuesCount": 2,
+    "doneStories": 1,
+    "inProgressIssuesCount": 2,
+    "inProgressStories": 1,
+    "inReviewIssuesCount": 1,
+    "issuesStuckInReviewGt3d": 0,
+    "newIssuesCreatedToday": 0,
+    "openIssuesCount": 3,
+    "storyPointsCompleted": 6,
+    "storyPointsTotal": 15,
+    "totalStories": 3,
+  },
+}
+`;
+
+exports[`evaluateEpicSignals produces a structured result for a healthy epic 2`] = `
+{
+  "forecastWindow": "2-6_weeks",
+  "probability": 60,
+  "reasons": [
+    "Epic has no clear owner assigned.",
+  ],
+  "riskLevel": "at_risk",
+  "signals": {
+    "completionRatio": 0.3333333333333333,
+    "daysSinceMovement": null,
+    "daysToTarget": 7.5,
+    "doneIssuesCount": 2,
+    "doneStories": 1,
+    "inProgressIssuesCount": 2,
+    "inProgressStories": 1,
+    "inReviewIssuesCount": 1,
+    "issuesStuckInReviewGt3d": 0,
+    "newIssuesCreatedToday": 0,
+    "openIssuesCount": 3,
+    "storyPointsCompleted": 6,
+    "storyPointsTotal": 15,
+    "totalStories": 3,
+  },
+}
+`;

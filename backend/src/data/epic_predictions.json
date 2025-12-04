@@ -1,0 +1,247 @@
+[
+  {
+    "key": "TEM-3",
+    "epicId": "692973844e275171ad60b1d2",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "at_risk",
+    "probability": 30,
+    "forecastWindow": "completed",
+    "reasons": [
+      "Epic is completed.",
+      "Epic was delivered 10 day(s) after target date."
+    ]
+  },
+  {
+    "key": "ARF-3",
+    "epicId": "692973854e275171ad60b1dc",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "at_risk",
+    "probability": 30,
+    "forecastWindow": "completed",
+    "reasons": [
+      "Epic is completed.",
+      "Epic was delivered 13 day(s) after target date."
+    ]
+  },
+  {
+    "key": "TEM-2",
+    "epicId": "692973864e275171ad60b1e6",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "off_track",
+    "probability": 38,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "None of the stories under this epic have estimates.",
+      "Stories are steadily moving to Done with good completion ratio.",
+      "Stories or the epic itself have moved in the last few days."
+    ]
+  },
+  {
+    "key": "ARF-2",
+    "epicId": "692973874e275171ad60b1f1",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "off_track",
+    "probability": 43,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "None of the stories under this epic have estimates.",
+      "Stories are steadily moving to Done with good completion ratio."
+    ]
+  },
+  {
+    "key": "TEM-1",
+    "epicId": "692973884e275171ad60b1fb",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "off_track",
+    "probability": 63,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic is past its target date and not completed.",
+      "None of the stories under this epic have estimates.",
+      "Stories are steadily moving to Done with good completion ratio."
+    ]
+  },
+  {
+    "key": "ARF-1",
+    "epicId": "692973894e275171ad60b209",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "off_track",
+    "probability": 63,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic is past its target date and not completed.",
+      "None of the stories under this epic have estimates.",
+      "Stories are steadily moving to Done with good completion ratio."
+    ]
+  },
+  {
+    "key": "TEM-37",
+    "epicId": "6929738a4e275171ad60b217",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "at_risk",
+    "probability": 72,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic has no linked stories.",
+      "Epic is near its target date but a low percentage of stories are completed."
+    ]
+  },
+  {
+    "key": "ARF-37",
+    "epicId": "6929738c4e275171ad60b21f",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "at_risk",
+    "probability": 72,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic has no linked stories.",
+      "Epic is near its target date but a low percentage of stories are completed."
+    ]
+  },
+  {
+    "key": "TEM-21",
+    "epicId": "6929738e4e275171ad60b226",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "at_risk",
+    "probability": 60,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic has no linked stories."
+    ]
+  },
+  {
+    "key": "ARF-21",
+    "epicId": "692973904e275171ad60b22c",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "at_risk",
+    "probability": 60,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic has no linked stories."
+    ]
+  },
+  {
+    "key": "TEM-23",
+    "epicId": "692973914e275171ad60b233",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "at_risk",
+    "probability": 70,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic has no linked stories.",
+      "Epic has no clear owner assigned."
+    ]
+  },
+  {
+    "key": "ARF-23",
+    "epicId": "692973934e275171ad60b239",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "at_risk",
+    "probability": 70,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic has no linked stories.",
+      "Epic has no clear owner assigned."
+    ]
+  },
+  {
+    "key": "TEM-22",
+    "epicId": "692973954e275171ad60b23f",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "at_risk",
+    "probability": 70,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic has no linked stories.",
+      "Epic has no clear owner assigned."
+    ]
+  },
+  {
+    "key": "ARF-22",
+    "epicId": "692973964e275171ad60b247",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "at_risk",
+    "probability": 70,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic has no linked stories.",
+      "Epic has no clear owner assigned."
+    ]
+  },
+  {
+    "key": "TEM-20",
+    "epicId": "692973974e275171ad60b24e",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "on_track",
+    "probability": 10,
+    "forecastWindow": "completed",
+    "reasons": [
+      "Epic is completed.",
+      "Epic was delivered on or before target date."
+    ]
+  },
+  {
+    "key": "ARF-20",
+    "epicId": "692973984e275171ad60b25a",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "on_track",
+    "probability": 10,
+    "forecastWindow": "completed",
+    "reasons": [
+      "Epic is completed.",
+      "Epic was delivered on or before target date."
+    ]
+  },
+  {
+    "key": "TEM-19",
+    "epicId": "692973994e275171ad60b266",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "on_track",
+    "probability": 53,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic has no clear owner assigned.",
+      "None of the stories under this epic have estimates.",
+      "Progress and remaining time are aligned; the epic looks on track versus its target date."
+    ]
+  },
+  {
+    "key": "ARF-19",
+    "epicId": "6929739a4e275171ad60b278",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "on_track",
+    "probability": 53,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic has no clear owner assigned.",
+      "None of the stories under this epic have estimates.",
+      "Progress and remaining time are aligned; the epic looks on track versus its target date."
+    ]
+  },
+  {
+    "key": "TEM-18",
+    "epicId": "6929739b4e275171ad60b28b",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "on_track",
+    "probability": 53,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic has no clear owner assigned.",
+      "None of the stories under this epic have estimates.",
+      "Progress and remaining time are aligned; the epic looks on track versus its target date."
+    ]
+  },
+  {
+    "key": "ARF-18",
+    "epicId": "6929739c4e275171ad60b299",
+    "workspaceId": "69297370f3e15cc79f17173a",
+    "riskLevel": "on_track",
+    "probability": 53,
+    "forecastWindow": "2-6_weeks",
+    "reasons": [
+      "Epic has no clear owner assigned.",
+      "None of the stories under this epic have estimates.",
+      "Progress and remaining time are aligned; the epic looks on track versus its target date."
+    ]
+  }
+]

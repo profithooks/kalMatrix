@@ -1,0 +1,10 @@
+[
+  { "key": "ARF-18", "outcome": "on_time" },
+  { "key": "TEM-18", "outcome": "on_time" },
+
+  { "key": "ARF-1", "outcome": "slipped" },
+  { "key": "TEM-1", "outcome": "slipped" },
+
+  { "key": "ARF-2", "outcome": "slipped" },
+  { "key": "TEM-2", "outcome": "slipped" }
+]
